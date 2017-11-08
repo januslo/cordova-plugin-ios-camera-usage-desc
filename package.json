@@ -1,0 +1,32 @@
+{
+  "name": "cordova-plugin-ios-camera-usage-desc",
+  "version": "1.0.2",
+  "description": "This plugin sets camera usage desc to false in *-Info.plist file",
+  "cordova": {
+    "id": "cordova-plugin-ios-camera-usage-desc",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/januslo/cordova-plugin-ios-camera-usage-desc.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios",
+    "camera usage desc"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "author": "januslo",
+  "license": "Apache",
+  "bugs": {
+    "url": "https://github.com/januslo/cordova-plugin-ios-camera-usage-desc/issues"
+  },
+  "homepage": "https://github.com/januslo/cordova-plugin-ios-camera-usage-desc#readme"
+}
