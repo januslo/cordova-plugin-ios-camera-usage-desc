@@ -14,5 +14,8 @@
       <config-file target="*-Info.plist" parent="NSPhotoLibraryUsageDescription">
         <string>我们需要访问您的相册来获取图片</string>
       </config-file>
+      <config-file target="*-Info.plist" parent="NSPhotoLibraryAddUsageDescription">
+         <string>我们需要你的同意来保存图片到你的相册</string>
+      </config-file>
     </platform>
 </plugin>
