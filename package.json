@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-ios-camera-usage-desc",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "This plugin sets camera usage desc to false in *-Info.plist file",
   "cordova": {
     "id": "cordova-plugin-ios-camera-usage-desc",
